@@ -1,0 +1,38 @@
+golang-dbus (3-2) unstable; urgency=medium
+
+  [ Paul Tagliamonte ]
+  * Team upload.
+  * Use a secure transport for the Vcs-Git and Vcs-Browser URL
+
+  [ Tianon Gravi ]
+  * Update Maintainer to be the pkg-go team proper
+  * Remove Built-Using from -dev package
+  * Update Build-Depends to use golang-any instead of golang-go
+
+ -- Paul Tagliamonte <paultag@debian.org>  Tue, 08 Aug 2017 20:16:48 -0700
+
+golang-dbus (3-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+
+ -- Dmitry Smirnov <onlyjob@debian.org>  Sun, 06 Mar 2016 18:43:24 +1100
+
+golang-dbus (2-1) unstable; urgency=low
+
+  * Upload to unstable
+
+ -- Tianon Gravi <admwiggin@gmail.com>  Fri, 01 May 2015 19:05:21 -0600
+
+golang-dbus (2-1~exp1) experimental; urgency=low
+
+  * Upstream bump to v2
+  * Bump Standards-Version to 3.9.6
+
+ -- Tianon Gravi <admwiggin@gmail.com>  Sat, 31 Jan 2015 22:19:32 -0700
+
+golang-dbus (1-1) unstable; urgency=low
+
+  * Initial release (Closes: #744983).
+
+ -- Tianon Gravi <admwiggin@gmail.com>  Tue, 22 Apr 2014 23:04:32 -0400
